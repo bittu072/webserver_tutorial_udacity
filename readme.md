@@ -41,6 +41,10 @@ Flask, SQLalchemy, oauth2clien, httplib2, requests
 - apt-get install
 - apt-get puge/ apt-get remove
 
+### NOTE
+Locally, practiced all the step using vagrant with virtualbox. All the Vagrant files are include in this repo.
+- Steps to use vagrant are mentioned in the project "https://github.com/bittu072/Tournament"
+- Repo for ItemCatalog-sport web aplication : "https://github.com/bittu072/ItemCatalog-Sport"
 
 ### Reference
 - https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
